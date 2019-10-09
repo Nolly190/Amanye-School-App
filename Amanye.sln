@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amanye", "Amanye\Amanye.csproj", "{44176723-8E6C-406B-B622-ACB053F30656}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AmanyeSetup", "AmanyeSetup\AmanyeSetup.vdproj", "{E0F591A9-B13B-499F-932A-51ABC9ED48AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44176723-8E6C-406B-B622-ACB053F30656}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{44176723-8E6C-406B-B622-ACB053F30656}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{44176723-8E6C-406B-B622-ACB053F30656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44176723-8E6C-406B-B622-ACB053F30656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F591A9-B13B-499F-932A-51ABC9ED48AE}.Debug|Any CPU.ActiveCfg = Debug
+		{E0F591A9-B13B-499F-932A-51ABC9ED48AE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C263E2-D6A8-4DA9-86D6-F32FFDA94D98}
+	EndGlobalSection
+EndGlobal
